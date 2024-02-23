@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\bin\Debug\Guest_Desktop.exe.config
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\bin\Debug\Guest_Desktop.exe
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\bin\Debug\Guest_Desktop.pdb
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.Form1.resources
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.exe
+C:\Users\Lenovo\source\repos\Guest_Desktop\Guest_Desktop\obj\Debug\Guest_Desktop.pdb
